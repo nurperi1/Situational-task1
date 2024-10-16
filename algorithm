@@ -1,0 +1,45 @@
+
+# EduTech Interactive Tutorials: Data Structures and Algorithms
+
+## Overview:
+This tutorial series introduces students to essential data structures and algorithms, reinforcing their understanding through interactive lectures, coding exercises, and quizzes.
+
+### Learning Outcomes:
+- Master fundamental data structures such as arrays, linked lists, stacks, queues, and trees.
+- Implement sorting and searching algorithms in Python.
+- Analyze the time and space complexity of algorithms using Big-O notation.
+- Apply advanced algorithms such as graph traversal and dynamic programming.
+
+### Weekly Breakdown:
+| Week | Topic | Key Concepts | Exercise |
+|------|-------|--------------|----------|
+| 1    | Arrays | Basic operations on arrays, use cases | Array manipulation in Python |
+| 2    | Linked Lists | Singly and doubly linked lists | Linked list implementation |
+| 3    | Stacks and Queues | LIFO, FIFO, real-world applications | Stack and queue implementation |
+| 4    | Trees | Binary search trees, tree traversal | BST implementation |
+| 5    | Sorting Algorithms | Bubble, merge, quicksort | Implement sorting algorithms |
+| 6    | Searching Algorithms | Linear search, binary search | Implement searching algorithms |
+| 7    | Advanced Algorithms | Graphs, dynamic programming | Graph traversal and DP problems |
+
+### Assessment:
+- Weekly Quizzes: 30%
+- Coding Exercises: 50%
+- Final Project: 20%
+
+### Sample Materials:
+- [Lecture Slides](slides/week1.pdf)
+- [Quizzes](quizzes/week1.md)
+- [Video Demos](videos/week1-demo.mp4)
+
+### How to Use:
+1. Watch the interactive video lectures.
+2. Complete the coding exercises after each lecture.
+3. Take quizzes to reinforce understanding.
+4. Submit the final project at the end of the course.
+
+## Screenshots:
+- ![Array Implementation](screenshots/array-implementation.png)
+- ![Linked List Demo](screenshots/linked-list-demo.png)
+
+## Video Demonstration:
+- [Click here to watch the tutorial in action](videos/overview-demo.mp4)
